@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble plea and protest, of Sr. John Maynard knight of the Bath and a (late member of the honourable house of Commons) &amp;c. Being the copie of his letter and protest, sent unto the Lords, Febr. 14. 1647. Directed as followeth, to the Right Honourable my singular good Lord, Edvvard Earle of Manchester, speaker of the House of Peeres. These --</title>
+            <title>England's champion.</title>
+            <author>Maynard, John, Sir, 1602-1690.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88997</idno>
+            <idno type="STC">Wing M1456</idno>
+            <idno type="STC">Thomason 669.f.11[126*]</idno>
+            <idno type="STC">ESTC R205511</idno>
+            <idno type="EEBO-CITATION">99864870</idno>
+            <idno type="PROQUEST">99864870</idno>
+            <idno type="VID">162778</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88997)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162778)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f11[126*])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble plea and protest, of Sr. John Maynard knight of the Bath and a (late member of the honourable house of Commons) &amp;c. Being the copie of his letter and protest, sent unto the Lords, Febr. 14. 1647. Directed as followeth, to the Right Honourable my singular good Lord, Edvvard Earle of Manchester, speaker of the House of Peeres. These --</title>
+                  <title>England's champion.</title>
+                  <author>Maynard, John, Sir, 1602-1690.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>The same text as Wing (2nd ed.) M1455, "England's champion"; but without the paragraph of commentary at the end that is found there.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Maynard, John, --  Sir, 1602-1690 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162778:1" rendition="simple:additions"/>
+            <head>The humble <hi>Plea</hi> and <hi>Proteſt,</hi> of S<hi rend="sup">r</hi>. JOHN MAYNARD Knight of the <hi>Bath</hi> and a (late Member of the Honourable houſe of Commons) &amp;c.</head>
+            <head>
+               <hi>Being the Copie of his</hi> Letter <hi>and</hi> Proteſt, <hi>ſent unto the Lords,</hi> Febr. 14. 1647. Directed as followeth, <hi>To the Right Honourable my ſingular good Lord,</hi> EDVVARD <hi>Earle of</hi> Mancheſter, Speaker of the Houſe of Peeres. Theſe—</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <hi>YOur Lordſhip may pleaſe to remember I was before you at your Barre, upon the</hi> 5. Febr. <hi>laſt, Where I de<g ref="char:EOLhyphen"/>meaned my ſelfe with all duty and reſpect to your Honourable houſe, and did zealouſly and Cordially ex<g ref="char:EOLhyphen"/>preſſe my ſelfe for the juſt intereſt of your Houſe, but being perplexed at the illegality of your proceedings with me, I was thereby forced and compelled to Proteſt by word of mouth againſt both the matter and manner of your Proceeding, but in regard your Lordſhips were pleaſed to Order me a new to appeare at Your barre upon</hi> Sa<g ref="char:EOLhyphen"/>turday <hi>next being the</hi> 19 <hi>of</hi> Febr. 1647. <hi>I am neceſſitated with all humility and reſpect unto the juſt Honour of your Houſe, incloſedly to ſend You my</hi> Plea <hi>and</hi> Proteſt <hi>under my Hand and Seale. which I humbly intreat your Honour to Communicate unto the Houſe of Peeres, this being my <g ref="char:V">Ʋ</g>ltimate reſolution, with which I humbly ſubſcribe my ſelfe,</hi>
+            </p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed>your Honours devoted Servant,
+IOHN MAYNARD.</signed>
+               <dateline>From the <hi>Tower</hi> of <hi>London,</hi> 
+                  <date>this 14, <hi>Febr.</hi> 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="statement">
+            <head>The humble <hi>Plea</hi> and <hi>Protest</hi> of <hi>John Maynard,</hi> &amp;c. Sent unto the Houſe of Lords, <hi>Febr.</hi> 14. 1647.</head>
+            <opener>
+               <salute>My Lords:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am now aſperſed with Treaſon, but I ſhould really contract the guilt of Treaſon againſt my Countries Liberty, and render my Name infamous amongſt the Commons of <hi>England</hi> to Poſterity, if I ſhould regard your Articles of Impeachment, as an accuſation to which I am bound to anſwer. If I were juſtly to bee ſuſpected for Treaſon, there could be no Le<g ref="char:EOLhyphen"/>gall juſt proceedings to bring me to my anſwer, but by Indictment of good and lawfull men, where ſuch ſuppoſed treaſonable deeds were <note n="a" place="margin">See <hi>Cookes ex<g ref="char:EOLunhyphen"/>poſ. of the</hi> 29. <hi>cap. of Magna Char.</hi> 2. <hi>part Inſtit. fol.</hi> 45. 46. <hi>See the Stat. of</hi> 25 Ed. 3 37 Ed. 3. 42 Ed. 3. 3.</note> done; And although I were Le<g ref="char:EOLhyphen"/>gally indicted, the Caſe comes not under your Lordſhips Cognizance; but ſeeing I am a Commoner of <hi>England,</hi> by the eſtabliſhed Lawes of the Land, my triall ought to bee by a Iudge or Iuſtice, and a Iury of Commoners, and no <note n="b" place="margin">See <hi>Mag Charta.</hi>
+               </note> otherwiſe; and as the intent of thoſe Lawes was, that all Trails might be e<g ref="char:EOLhyphen"/>quall and impartiall, ſo they are founded upon theſe impregnable grounds of Reaſon and Equity.</p>
+            <p>Firſt, the Iury are to be of the Neighbourhood where any crime is committed, and ſome ought to bee of the ſame Hundred; for the Law preſumes, that ſuch may have either ſome cognizance of the fact, or of ſome Circumſtances thereof, or of the Party accuſed whoſe condition and manner of converſation is much to bee regarded, for the diſcovering his intention in any fact ſuppoſed to be Treaſon or Felony, &amp;c. and the Rule of the Law is, <note n="c" place="margin">See 1. <hi>part of Cookes Inſtit. L.</hi> 2. <hi>ca.</hi> 12. <hi>Sect.</hi> 234. See 3. <hi>part Inſtit fol</hi> 32, 33.</note> 
+               <hi>Actus non facit reum niſi mens ſit rea.</hi>
+            </p>
+            <p n="2">2. The Iury that paſſes upon any Commoner one day, may themſelves bee in a condition to be tried by him another day, as one of their Iury: and hereby they are bound to indifferency and impartiality, conſi<g ref="char:EOLhyphen"/>dering it may bee their owne caſe.</p>
+            <p n="3">3. The Party accuſed may challenge or except againſt the Iurors; either againſt the <note n="d" place="margin">See 1. <hi>par. Cookes Iuſt. L.</hi> 2. <hi>c.</hi> 12. <hi>ſect.</hi> 234 <hi>That a Iury man be according to</hi> Magna Char. Liber &amp; Lega<g ref="char:EOLhyphen"/>les homo, <hi>a good and lawfull man, he muſt have three properties.</hi> 1. <hi>He muſt be dwel<g ref="char:EOLhyphen"/>ling moſt neere to the place where the fact is done.</hi> 2. <hi>He muſt be ſuffici<g ref="char:EOLhyphen"/>ent for underſtanding and competency of e<g ref="char:EOLhyphen"/>ſtate.</hi> 3 <hi>Hee muſt be indifferent and free from ſuſpition of par<g ref="char:EOLhyphen"/>tiality.</hi>
+               </note> Array, if the Sheriffe or Bayliffe impanelling the Iury, bee not wholly diſingaged and indifferent, as to the Cauſe: and the Party proſecuting, or againſt the Polls; and in caſe of Treaſon hee may challenge 35 peremptorily upon his diſlike, without rendring the leaſt cauſe, and as many more as hee can render any reaſon for his juſt challenge, as in caſe hee can challenge any for a Baron or Lord of Parliament, or for defect in eſtate or other abilities, or for diſaffection or partiality, or for any infamous Crime, and hereby the Iudges of the fact for the Party accuſed, may certainly bee indifferent, equall and impartiall.</p>
+            <p n="4">4 The matter of Fact is onely intruſted to the Iury, and the matter of Law to the Iudge, for the pre<g ref="char:EOLhyphen"/>venting all Errors, confederacies, or partiality</p>
+            <p n="5">5. The Iudge is ſworne to doe juſtice to all according to Law, without reſpect of Perſons, and the Iu<g ref="char:EOLhyphen"/>ry are ſworne to find according to their Evidence.</p>
+            <p>Now from every of theſe, the injuſtice and illegality of your Lordſhips claime, to be both Iury and Iud<g ref="char:EOLhyphen"/>ges in the Tryall of mee, or any Commoner, is clearly demonſtrable.</p>
+            <p>Your Lordſhips cannot be of the Neighbourhood where the Crimes of all Commoners are committed, and cannot bee preſu<g ref="char:EOLhyphen"/>mod to have any cognizance of the Facts, or Parties offending; neither doe you allow your ſelves to bee Tried by Commoners; ſo as to be bound to indifferencie and impartiality, from the Knowledge that the Commoners whom you would Try, might poſſi<g ref="char:EOLhyphen"/>bly be of a Iury for your Trial in a ſhort time; neither can my ſelfe or any other Commoner whom you would try, challenge in the caſe of Treaſon thirty five of your houſe, for your whole houſe amounts very ſeldome to that number, neither will you allow me to challenge any one of your Lord ſhips, though I ſhould alledge diſaffection, partiality, or that he is an ingaged party, or proſecutor, ſecretly or openly; neither at preſent is there any Lord high Steward, or Lord high Conſtable, amongſt your Lordſhips to be Iudge in matter of <hi>Law,</hi> while others ſhould be Iudges in matter of <hi>fact:</hi> neither are your Lordſhips ſworne to Iudge according to <hi>Law,</hi> or in matter of <hi>fact</hi> according to Evidence.</p>
+            <p>Having therefore ſuch infallible evidence, both from the Statute and Common Law, that <hi>I</hi> ought to be brought to anſwer, to any ſuppoſed crime, only by indictment or preſentment of my equals; good and Lawfull men of the neighbourhood where the <hi>fact</hi> is done, and that my triall ought to be by my equalls, and a Iudge of the Law in open Court; and that the cog<g ref="char:EOLhyphen"/>nizance of any crime whereof I am ſuſpected pertaines not to your Lordſhips; I am reſolved never to betray my owne, and all the Commoners Liberties, nor to conſent to the ſubverting the Fundamentall Lawes of the Kingdome, by ſubmitting to a triall by your Houſe, or to anſwer to your Articles of Impeachment; but I doe hereby proteſt againſt the forme of your accuſation as illegall, and your Lordſhips Iuriſdiction over my ſelfe, or any Commonner of England, in criminall caſes as being deſtructive to our fundamentall rights and Liberties: and I doe hereby claime the benefit of <hi>Magna Charta,</hi> the Pe<g ref="char:EOLhyphen"/>tition of Right, and all other eſtabliſhed Lawes of the Land, which this Honourable houſe, the houſe of Commons and the Army under his Excellencio Sr. <hi>Thomas Fairfaxes</hi> command, in all your and their Declarations, remonſtrances, proteſtations, oathes, and Covenants, have promiſed, vowed, and declared, you will maintaine and preſerve,</p>
+            <closer>
+               <signed>Iohn Maynard.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
